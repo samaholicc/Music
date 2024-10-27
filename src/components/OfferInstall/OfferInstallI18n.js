@@ -1,6 +1,6 @@
 export default {
-    Header: "התקן את מתורגמיוזיק כאפליקציה",
-    Description: "(אינו נתמך בכל סוגי המכשירים)",
-    Install: "התקן",
-    CantInstallAlert: "כבר הותקן, או שמכשירך אינו תומך בהתקנה",
+    Header: "Installez les Traducteurs de Musique en tant qu'Application",
+    Description: "(Non supporté sur tous les types d'appareils)",
+    Install: "Installer",
+    CantInstallAlert: "Déjà installé, ou votre appareil ne prend pas en charge l'installation",
 };

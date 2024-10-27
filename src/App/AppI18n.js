@@ -1,10 +1,9 @@
 export default {
-    MainH1: "מתורגמיוזיק - לימוד אנגלית משירים",
-    IosBanner: 'החיפוש עלול שלא לעבוד במכשירי אפל (אייפון, מקבוק וכדומה)',
-    About: " אודות ",
-    Exercise: " תירגול מילים ",
-    History: " היסטוריה ",
-    Wishlist: " שירים שמורים ",
-    SpotifyExtension: " תוסף לספוטיפיי ",
-
+    MainH1: "Music Translators - Learning English from Songs",
+    IosBanner: 'Search may not work on Apple devices (iPhone, MacBook, etc.)',
+    About: "About",
+    Exercise: "Word Practice",
+    History: "History",
+    Wishlist: "Saved Songs",
+    SpotifyExtension: "Spotify Extension",
 };

@@ -1,23 +1,23 @@
 export default {
 
-    Shot1Header: " אנגלית ועברית שורה אחר שורה",
-    Shot1Alt: "אנגלית ועברית שורה אחר שורה צילום מסך",
-    Shot1Body: "  מהיום תוכלו למצוא את השירים האהובים ,וללמוד באמצעותם אנגלית בצורה נוחה, ללא צורך לצאת לאפליקציות חיצוניות, ועם גודל הכתב המועדף עליכם, ",
-    // Shot1Bottom: "בעיצוב נקי וללא הסחות דעת",
-    Shot1Footer: " לא עוד לבקש תרגום לכל שיר מחדש, לא עוד לאבד את טקסט המקור, לא עוד להיאבד בין הכפתורים והפרסומות, ולא עוד כתב קטן ועיצוב לא נוח",
+    Shot1Header: "Anglais et Francais Ligne par Ligne",
+    Shot1Alt: "Capture d'écran Anglais et Francais Ligne par Ligne",
+    Shot1Body: "À partir d'aujourd'hui, vous pouvez trouver vos chansons préférées et apprendre l'anglais confortablement grâce à elles, sans avoir besoin d'aller sur des applications externes, et avec la taille de police de votre choix.",
+    // Shot1Bottom: "Dans un design épuré sans distractions",
+    Shot1Footer: "Fini de demander la traduction de chaque chanson, fini de perdre le texte original, fini de se perdre entre les boutons et les publicités, et fini avec une petite police et un design inconfortable.",
 
-    PlayerHadeer: " נגן מובנה",
-    Player1Alt:  " נגן יוטיוב מובנה צילום מסך",
-    PlayerBody: "עם אפשרות גרירה, למקום הרצוי על המסך",
+    PlayerHeader: "Lecteur Intégré",
+    Player1Alt: "Capture d'écran du Lecteur YouTube Intégré",
+    PlayerBody: "Avec une fonctionnalité de glisser-déposer à l'emplacement de votre choix sur l'écran.",
 
-    SingleTransHeader: "תרגום מילוני לכל מילה בנפרד",
-    SingleTransAlt: "צילום מסך תרגום מילוני לכל מילה ",
-    SingleTransBody: "תרגום מהיר לכל  מילה בודדת, ללא צורך לצאת לאפליקציות חיצוניות",
-    SingleTransFooter: "כאשר משתמשים בתרגום אטומטי המבוצע על ידי מכונה, התרגום אינו מושלם, לכן סיפקנו תרגום מילוני לכל מילה בנפרד, כך אם ההקשר של תרגום המשפט אינו מתאים, תוכלו להשוות עם תרגומים נוספים",
+    SingleTransHeader: "Traduction de Dictionnaire pour Chaque Mot Séparément",
+    SingleTransAlt: "Capture d'écran de la Traduction de Dictionnaire pour chaque Mot",
+    SingleTransBody: "Traduction rapide pour chaque mot individuel, sans avoir besoin d'aller sur des applications externes.",
+    SingleTransFooter: "Lorsqu'on utilise une traduction automatique basée sur une machine, la traduction n'est pas parfaite ; c'est pourquoi nous fournissons une traduction de dictionnaire pour chaque mot séparément. Ainsi, si le contexte de la traduction de la phrase n'est pas approprié, vous pouvez comparer avec des traductions supplémentaires.",
 
-    ExerciseHeader: "תרגול מילים",
-    ExerciseAlt: " מילים חדשות שלמדתם מהשיר צילום מסך",
-    ExerciseBody: "שמרו מילים חדשות שלמדתם מהשיר, ותרגלו אותן בעמוד ייעודי באתר ",
+    ExerciseHeader: "Pratique des Mots",
+    ExerciseAlt: "Nouveaux mots que vous avez appris de la chanson Capture d'écran",
+    ExerciseBody: "Enregistrez les nouveaux mots que vous avez appris de la chanson, et pratiquez-les sur une page dédiée du site.",
     
     OtherFeaturesHeader: "",
 };

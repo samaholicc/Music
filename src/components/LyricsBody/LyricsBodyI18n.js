@@ -1,3 +1,3 @@
 export default {
-    Save: "שמור",
+    Save: "Sauvegarder",
 };

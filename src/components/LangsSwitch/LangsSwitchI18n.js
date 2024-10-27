@@ -1,5 +1,5 @@
 export default {
-    WhichToDisplay: "איזו שפה להציג?",
-    EN: "אנגלית",
-    HE: "עברית",
+    WhichToDisplay: "Quelle langue afficher ?",
+    EN: "Anglais",
+    FR: "Francais",
 };
