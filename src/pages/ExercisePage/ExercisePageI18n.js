@@ -1,3 +1,3 @@
 export default {
-    Empty: "אין מילים להציג",
+    Empty: "Aucun mot à afficher",
 };

@@ -1,4 +1,4 @@
 export default {
-    Empty: "אין שירים בהיסטוריה",
-    DelAll: "מחק הכל",
+    Empty: "Aucune chanson dans l'historique",
+    DelAll: "Supprimer tout",
 };

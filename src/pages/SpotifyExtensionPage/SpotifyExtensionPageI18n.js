@@ -1,9 +1,9 @@
 export default {
-    TopH2: "התוסף שלנו לאתר ספוטיפיי. ",
-    MiddleH2: "תנו למסך לעקוב אחר מהלך השיר, יחד עם התרגום, ללא איבוד המקור. ",
-    H3: "בקרוב!",
-    NeedToCopyKey: "בכדי להשתמש בתוסף יהיה עליכם להעתיק אליו את המפתח",
-    PremiumOnlyAlert: "ייתכן ותוסף זה פעיל למשתמשי ספוטיפיי פרימיום בלבד",
-    PremiumOnlyDesc: "*החל מסוף 2023 ייתכן ומילות השיר זמינות למשתמשי ספוטיפיי פרימיום בלבד, לכן תוסף זה עלול שלא לעבוד בחשבונות ספוטיפיי חינמיים",
-    Copied: "הועתק",
+    TopH2: "Notre extension pour le site Spotify.",
+    MiddleH2: "Laissez l'écran suivre le cours de la chanson, avec la traduction, sans perte de l'original.",
+    H3: "Bientôt !",
+    NeedToCopyKey: "Pour utiliser l'extension, vous devrez lui copier la clé.",
+    PremiumOnlyAlert: "Cette extension peut être active uniquement pour les utilisateurs de Spotify Premium.",
+    PremiumOnlyDesc: "*À partir de fin 2023, les paroles des chansons peuvent être disponibles uniquement pour les utilisateurs de Spotify Premium, donc cette extension pourrait ne pas fonctionner sur des comptes Spotify gratuits.",
+    Copied: "Copié",
 };

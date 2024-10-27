@@ -1,5 +1,5 @@
 export default {
-    AlertTitle: "שירים שמורים ",
-    AlertDesc: "כאן תוכלו לחפש ולשמור שירים אשר תרצו ללמוד מהם בעתיד",
-    NoSongs: "אין שירים",
+    AlertTitle: "Chansons enregistrées",
+    AlertDesc: "Ici, vous pouvez chercher et enregistrer des chansons que vous souhaitez apprendre à l'avenir.",
+    NoSongs: "Aucune chanson",
 };
